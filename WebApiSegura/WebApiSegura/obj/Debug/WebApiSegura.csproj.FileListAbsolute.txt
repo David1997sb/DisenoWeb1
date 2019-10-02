@@ -89,3 +89,5 @@ C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\Microsoft.IdentityMode
 C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\Microsoft.IdentityModel.Logging.xml
 C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\Microsoft.IdentityModel.Tokens.xml
 C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\Swashbuckle.Core.dll
+C:\Users\David\source\repos\WebApiSegura\WebApiSegura\bin\WebActivatorEx.dll
